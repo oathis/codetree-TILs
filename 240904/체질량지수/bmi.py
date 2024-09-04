@@ -8,5 +8,5 @@ if bmi >= 25:
 
 bmi= int(math.floor(bmi*10)/10)
 print(bmi)
-if C == 1:
+if c == 1:
     print("Obesity")
